@@ -1,2 +1,2 @@
 # hello_world
-My first repository
+Hi! My name is Lika and I really like this platform
